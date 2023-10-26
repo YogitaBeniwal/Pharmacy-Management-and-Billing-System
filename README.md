@@ -31,7 +31,7 @@ To run the program, compile and execute the C++ code. After successful login, th
 
 ## Author
 
-This Pharmacy Management and Billing System in C++ was developed by the author as a part of a programming project.
+This Pharmacy Management and Billing System in C++ was developed by Yogita Beniwal as a part of a programming project.
 
 **Note:** This README provides an overview of the program's functionality. Detailed code comments and user instructions can be found in the C++ source code.
 
